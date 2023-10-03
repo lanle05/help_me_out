@@ -1,0 +1,10 @@
+{
+  "configurations": [
+    {
+      "type": "chrome",
+      "name": "http:///favicon.ico",
+      "request": "launch",
+      "url": "http:///favicon.ico"
+    }
+  ]
+}
